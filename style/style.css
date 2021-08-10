@@ -68,5 +68,58 @@ header .navigation a:hover{
     color: #226A80;
     text-transform: uppercase;
     font-size: 55px;
-    
+    font-weight: 800;
+    letter-spacing: 2px;
+    line-height: 60px;
+    margin-bottom: 30px;
+}
+
+.content .info h2 span{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.content .info p{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+.content .info-btn{
+    color: #fff;
+    background: #226A80;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.content .info-btn:hover{
+    background: #0C4F60;
+}
+
+.media-icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.media-icons a{
+    position: relative;
+    color: #111;
+    font-size: 25px;
+    transition: 0.3s ease-in;
+    transition-property: transform;
+}
+
+.media-icons a:not(:last-child){
+    margin-right: 60px;
+}
+
+.media-icons a:hover{
+    transform: scale(1.5);
 }
