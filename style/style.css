@@ -133,6 +133,7 @@ label{
 
 #check{
     z-index: 3;
+    display: none;
 }
 
 /* Responsive styles */
