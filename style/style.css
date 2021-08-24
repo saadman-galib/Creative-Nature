@@ -126,3 +126,14 @@ header .navigation a:hover{
 .media-icons a:hover{
     transform: scale(1.5);
 }
+
+label{
+    display: none;
+}
+
+/* Responsive styles */
+@media (max-width: 960px) {
+    header .navigation{
+        display: none;
+    }
+}
