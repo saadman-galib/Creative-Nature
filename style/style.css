@@ -91,7 +91,7 @@ header .navigation a:hover{
 
 .content .info-btn{
     color: #fff;
-    background: #226A80;
+    background: #226a80;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 700;
@@ -219,6 +219,15 @@ label{
         border: none;
         border-radius: 8px;
         margin-bottom: 40px;
+    }
+
+    .content .info-btn{
+        background-color: rgba(34, 106, 128, 0.9);
+        /* mix-blend-mode: ; */
+    }
+
+    .content .info-btn:hover{
+        background-color: rgba(12, 79, 96, 0.9);
     }
 }
 
