@@ -3,17 +3,20 @@
 ## Table of Contents
 
 - [Overview](#overview)
+
   - [Built With](#built-with)
+
 - [How to use](#how-to-use)
+
 - [Acknowledgements](#acknowledgements)
+
 - [Credit](#credit)
+
 - [Contact](#contact)
 
 ## Overview
 
 ![screenshot](./assets/README.png)
-
-
 
 ## Built With
 
@@ -27,8 +30,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 ```bash
 git clone https://github.com/saadman-galib/Creative-Nature.git
 ```
-
-
 ## Acknowledgements
 
 - [Steps to replicate a hero section design with only HTML and CSS](#acknowledgements)
