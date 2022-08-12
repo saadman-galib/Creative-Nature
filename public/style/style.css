@@ -10,11 +10,22 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.about{
+    margin: 0 auto;
+}
+
+.aboutParagraph{
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    width: 50%;
+    margin: 0 auto;
+}
+
 section{
     width: 100%;
     min-height: 100vh;
     position: relative;
-    background: url('../assets/bg.jpg');
+    background: url('/assets/bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

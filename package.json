@@ -1,0 +1,23 @@
+{
+  "name": "creative-nature",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Creative Nature</h1>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel2u/Creative-Nature.git"
+  },
+  "author": "Manuel2u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuel2u/Creative-Nature/issues"
+  },
+  "homepage": "https://github.com/Manuel2u/Creative-Nature#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
